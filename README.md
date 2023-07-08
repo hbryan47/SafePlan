@@ -14,7 +14,7 @@ In addition to safely escaping domestic violence situations, it is important tha
   ### Examples of Links to Resources
   - The Deluth Model: [https://www.theduluthmodel.org/wheel-gallery/](https://www.theduluthmodel.org)
   - National Domestic Violence Hotline: [https://www.thehotline.org/](https://www.thehotline.org/)
-  - National Coalition Against Domestic Violence (NCDAV): [https://ncadv.org/[(https://ncadv.org/)
+  - National Coalition Against Domestic Violence (NCDAV): [https://ncadv.org/](https://ncadv.org/)
   - Break The Silence Against Domestic Violence (BTSADV): [https://breakthesilencedv.org/](https://breakthesilencedv.org/)
   - &Rise Domestic Violence Awareness Non-Profit: [https://www.womenrisechicago.org](https://www.womenrisechicago.org)
   - Women's Independence Scholarship Program: (WISP): [https://wispinc.org/](https://wispinc.org/)
