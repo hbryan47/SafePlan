@@ -4,7 +4,7 @@
 - Andraya Thomson
 - Heather Bryan
 - Jeremy Bosquez
-- Jasmine Boyd
+- Emerci Jones
 
 ## Project Description
 Safe Escape - (Write Description)
