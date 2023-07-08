@@ -1,4 +1,4 @@
-# SafeEscape
+# SafePlan
 
 ## Project Team Members
 - Andraya Thomson
