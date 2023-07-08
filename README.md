@@ -7,7 +7,7 @@
 - Emerci Jones
 
 ## Project Description
-Safe Escape - (Write Description)
+Safe Escape - A Safety Planning app for domestic violence victims, that connects them to resources and helps them access trauma-informed assistance in formulating an individualized plan for safely escaping their abusive situation.
 
 ## Project Requirements
 
