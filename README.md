@@ -90,3 +90,4 @@ A six-week project plan for developing the requirements will be added in 1 week 
 - Prepare the application for deployment, ensuring all dependencies and configurations are properly documented.
 
 Note: The duration of each week may vary based on the complexity of the project and available resources. Adjustments can be made to the timeline based on the specific requirements and constraints of your project.
+
