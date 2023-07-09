@@ -12,7 +12,7 @@ In addition to safely escaping domestic violence situations, it is important tha
   - Victim Connect: [https://victimconnect.org/learn/address-confidentiality/](https://victimconnect.org)
   - Clinic To End Tech Abuse (CETA): [https://www.ceta.tech.cornell.edu/resources](https://www.ceta.tech.cornell.edu)
 
-## Project Team Members
+## Project Team Members - Team "CTRL Z"
 - Andraya Thomson (Scrum Master & Software Developer)
 - Heather Bryan (Software Developer)
 - Jeremy Bosquez (Software Developer)
