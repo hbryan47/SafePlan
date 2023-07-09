@@ -37,7 +37,7 @@ These stretch goals are NOT required, however, are goals we strive to reach afte
 ## Project Plan
 A six-week project plan for developing the requirements will be added in 1 week sprints. These sprints will be tracked through a scrum process using a Trello Board and Google Docs, linked here below:
   ### SafePlan Trello Board Link:
-  - ADD TRELLO BOARD LINK HERE
+  - https://trello.com/invite/b/M5F5rypi/ATTIe0c570f5e6bb609d3108efd868f6a25bD5C2D5D1/safeplan-app
   ### Final Project Requirements & Documentation Team Master Doc
   - [https://docs.google.com/document/d/1rC2j-Jww6cAnucmbkmXg5m5qjJxZG5rMFbV77KqgJHo/edit](https://docs.google.com)
 
