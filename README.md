@@ -15,8 +15,6 @@ In addition to safely escaping domestic violence situations, it is important tha
 ## Project Team Members - Team "CTRL Z"
 - Andraya Thomson (Scrum Master & Software Developer)
 - Heather Bryan (Scrum Master & Software Developer)
-- Jeremy Bosquez (Software Developer)
-- Emerci Jones (Software Developer)
 
 ## Project Requirements
 
