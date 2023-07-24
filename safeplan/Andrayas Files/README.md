@@ -20,9 +20,13 @@ Created the backend using Express/MySQL
 
 Hit the JWT stretch goal
 
-Got it to be fully functional
-
 Halfway to the One to Many Stretch Goal
 
 Worked on React-Icons 
+
+Maintained and Worked on our Trello Board
+
+Starting sharing our error files in a word doc to showcase our journey
+
+Created team video of backend functional
 

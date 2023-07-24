@@ -26,7 +26,13 @@ Learned how to use GitHub Live Editor
 
 Created a dummy Next.js project in hopes to learn how to incorporate into our project
 
+Maintained and Worked on our Trello Board
+
+Starting sharing our error files in a word doc to showcase our journey
+
 Did our ReadME files for this weeks sprint
+
+Added media queries to our css
 
 
 

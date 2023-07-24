@@ -148,3 +148,16 @@ Navbar li a:visited {
 {
 color: #15797d;
 } */
+
+/* Laptop */
+@media screen
+and (min-width: 1024px){
+}
+/* Tablet */
+@media only screen
+and (max-width: 1024px){
+}
+/*Phone*/
+@media only screen
+and (max-width: 768px){
+}
