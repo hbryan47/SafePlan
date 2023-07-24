@@ -20,7 +20,7 @@ Created the backend using Express/MySQL
 
 Hit the JWT stretch goal
 
-Halfway to the One to Many Stretch Goal
+Halfway to the Many to Many Stretch Goal
 
 Worked on React-Icons 
 
