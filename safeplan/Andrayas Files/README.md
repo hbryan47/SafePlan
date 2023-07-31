@@ -30,3 +30,22 @@ Starting sharing our error files in a word doc to showcase our journey
 
 Created team video of backend functional
 
+        Integration(Front-End, Back-End, MySQL)
+---
+Worked on React JWT token
+
+CSS Styling 
+
+Created new jsx code files
+
+Converted Navabar code 
+
+Created a full-stack project from scratch
+
+Integrated project
+
+Recorded our demo video
+
+
+
+

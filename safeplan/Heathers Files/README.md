@@ -34,5 +34,21 @@ Did our ReadME files for this weeks sprint
 
 Added media queries to our css
 
+        Integration(Front-End, Back-End, MySQL)
+---
+Created a Full-Stack Project from scratch
+
+Created a next.js project/ code from scratch
+
+Coded next.js project 
+
+Converted code to work properly in full-stack project
+
+Integrated project 
+
+CSS Styling 
+
+
+
 
 
