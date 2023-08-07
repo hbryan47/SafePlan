@@ -15,7 +15,7 @@ import { faClipboard } from "@fortawesome/free-solid-svg-icons";
 import { faUnlockKeyhole } from "@fortawesome/free-solid-svg-icons";
 import { faPhone } from "@fortawesome/free-solid-svg-icons";
 
-import "../assets/CircularNavbar.css";
+import "../assets/Navbar.css";
 import "../img/RoseLicensedAdobeStock_479715727.jpeg";
 
 // class FontAwesomeIcon extends Component {
@@ -33,7 +33,7 @@ import "../img/RoseLicensedAdobeStock_479715727.jpeg";
 //   }
 // }
 
-function CircularNavbar() {
+function Navbar() {
 	const toggleNavbar = () => {
 		const navbar = document.querySelector(".Navbar");
 		navbar.classList.toggle("active");
@@ -104,10 +104,9 @@ function CombinedComponent() {
 	return (
 		<div>
 			<FontAwesomeIcon />
-			<CircularNavbar />
+			<Navbar />
 		</div>
 	);
 }
 
 export default CombinedComponent;
-

@@ -1,10 +1,10 @@
 // import React from "react";
 // import { useHistory } from "react-router-dom";
 
-// const SafetyEscape = () => {
+// const SafeExit = () => {
 // 	const history = useHistory();
 
-// 	const handleEscape = () => {
+// 	const handleExit = () => {
 // 		// Implement the desired escape behavior here
 // 		// For example, navigate to a safe landing page or exit the app
 // 		history.push("/safe-landing");
@@ -12,10 +12,10 @@
 // 	};
 
 // 	return (
-// 		<button onClick={handleEscape}>Exit</button>
+// 		<button onClick={handleExit}>Exit</button>
 // 		// or any other suitable UI element
 // 	);
 // };
 
-// export default SafetyEscape;
+// export default SafeExit;
 // // implement on all pages needed

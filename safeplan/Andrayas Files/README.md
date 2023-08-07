@@ -46,6 +46,20 @@ Integrated project
 
 Recorded our demo video
 
+       Add Remaining Features
+---
+Create new resource navbar 
+
+Corrected some jsx files
+
+Created new jsx files
+
+Converted code for integration 
+
+CSS Styling 
+
+
+
 
 
 

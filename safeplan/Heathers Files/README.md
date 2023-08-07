@@ -48,6 +48,18 @@ Integrated project
 
 CSS Styling 
 
+        
+       Add Remaining Features
+---
+Created React Responsive jsx 
+
+Corrected some jsx files
+
+Created new jsx files
+
+Converted code for integration 
+
+Worked on cloud server
 
 
 
