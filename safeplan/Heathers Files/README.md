@@ -48,8 +48,7 @@ Integrated project
 
 CSS Styling 
 
-        
-       Add Remaining Features
+        Add Remaining Features
 ---
 Created React Responsive jsx 
 
