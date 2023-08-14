@@ -1,0 +1,30 @@
+<head>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+<h1>Welcome! Please sign up for your own secure confidential profile and notespace here</h1>
+
+<form id="signup" name="signup" method="POST" action="/users/signup">
+    <div>
+        <label for="name">FIRST NAME: </label>
+        <input type="text" name="firstName" required>
+    </div>
+    <div>
+        <label for="name">LAST NAME: </label>
+        <input type="text" name="lastName" required>
+    </div>
+    <div>
+        <label for="name">EMAIL: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+        <input type="text" name="email" required>
+    </div>
+    <div>
+        <label for="name">USERNAME: </label>
+        <input type="text" name="username" required>
+    </div>
+    <div>
+        <label for="name">PASSWORD: </label>
+        <input type="password" name="password" required>
+    </div>
+    <div class="button">
+        <button type="submit">SUBMIT</button>
+    </div>
+</form>

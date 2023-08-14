@@ -1,0 +1,44 @@
+<script type="application/javascript">
+  var deletePost = function (id) { console.log(id); fetch("posts/" + id, {
+  method: "delete" }).then(result => window.location = window.location); }
+</script>
+<h2>This is your personal notes place.</h2>
+<h2>Taking notes and having a written safety plan to refer back to can be helpful.</h2>
+
+<h3>NEW NOTE</h3>
+<form id="makePost" name="makePost" method="POST" action="/posts/">
+  <div>
+    <label for="postTitle">NOTE TITLE: </label>
+    <input type="text" name="postTitle" required />
+  </div>
+  <div>
+    <label for="postBody">NOTE BODY: </label>
+    <input type="text" name="postBody" required />
+  </div>
+  <div>
+    <button type="submit">SAVE</button>
+  </div>
+</form>
+<hr />
+<h3>MY PERSONAL NOTES</h3>
+{{#each posts}}
+
+  <h3>
+    {{PostTitle}}
+    :
+    {{PostBody}}
+    <button onClick="deletePost({{PostId}})">DELETE NOTE</button>
+    <a href="posts/{{PostId}}">EDIT NOTE</a>
+  </h3>
+{{/each}}
+<hr />
+  <div class="userPostLink">
+    <h3><a href="/profile">CLICK HERE to view your profile and notes col</a></h3>
+  </div>
+  <h2>MY PRIVATE NOTES COLLECTION</h2>
+<hr />
+{{!-- <h4>
+    {{ PostTitle }} : <button onClick="deletePost({{PostId}})">delete</button>
+    {{ PostBody }} : <button onClick="editPost({{PostId}})">edit</button> <a href="posts/{{PostId}}</a>
+</h4>
+{{/each}} --}}

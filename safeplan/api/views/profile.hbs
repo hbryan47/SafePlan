@@ -1,0 +1,16 @@
+<h1>Hello {{user.FirstName}} {{user.LastName}}</h1>
+<h2>EMAIL: {{user.Email}}</h2>
+<h2>USERNAME: {{user.Username}}</h2>
+  
+  
+<hr />
+<div class="UserPostLink">
+<h3><a href="/posts">CLICK HERE to create your private notes</a></h3>
+</div>
+<h2>MY PRIVATE NOTES COLLECTION</h2>
+<hr />
+{{#each user.posts}}
+<h4>
+  {{PostTitle}} : {{PostBody}}
+</h4>
+{{/each}}

@@ -1,0 +1,21 @@
+<head>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+<h1>Welcome! Please Login</h1>
+<h2>We are committed to your safety and privacy</h2>
+<h3>This website uses Secure Authentication using tokens that hash passwords.</h3>
+<h3>This method is superior. No passwords are ever stored in nor visible in the database.</h3>
+{{!-- syntax we were originally provided --}}
+<form id="Login" name="Login" method="POST" action="/users/Login">
+    <div>
+        <label for="name">USERNAME: </label>
+        <input type="text" name="username" required>
+    </div>
+    <div>
+        <label for="name">PASSWORD: </label>
+        <input type="password" name="password" required>
+    </div>
+    <div>
+        <button type="submit">SUBMIT</button>
+    </div>
+</form>

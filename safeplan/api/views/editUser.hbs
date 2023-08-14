@@ -1,0 +1,14 @@
+<script type="application/javascript">
+  var deleteUser = function (id) {
+    fetch("/users/Admin/editUser/" + id, {
+      method: "DELETE"
+    }).then(result => window.location = "/users/Admin");
+  }
+</script>
+
+
+<h1>Hello {{user.FirstName}} {{user.LastName}}</h1>
+<h4>As an Admin, you can delete a user here.</h4>
+<h2>EMAIL {{user.Email}}</h2>
+<h3>USERNAME: {{user.Username}}</h3>
+<button onClick="deleteUser({{user.UserId}})">DELETE</button>

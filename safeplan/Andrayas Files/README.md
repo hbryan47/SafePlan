@@ -58,6 +58,20 @@ Converted code for integration
 
 CSS Styling 
 
+        Project Demo- Styling
+---
+Fixed Resource Navbar Responsiveness
+
+Fixed Circular Navbar Responsiveness
+
+Convert code to fix errors
+
+Created Project Demo
+
+Pushed to Github
+
+
+
 
 
 

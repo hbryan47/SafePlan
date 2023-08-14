@@ -61,5 +61,20 @@ Converted code for integration
 Worked on cloud server
 
 
+        Project Demo- Styling
+---
+Fully integrated project
+
+Made PowerPoint Presentation
+
+Created Project Demo
+
+Converted code to fix errors
+
+Learned how to deploy
+
+Pushed to Github
+
+
 
 
